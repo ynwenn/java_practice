@@ -36,5 +36,9 @@ public class Main {
             System.out.println(sum);
         }
 
+
+        for (int i = 0; i < numbers.size(); i++) {
+            System.out.println(numbers.get(i));
+        }
     }
 }
